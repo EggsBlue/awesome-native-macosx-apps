@@ -107,7 +107,6 @@ Apps on this list are:
 
 ## Design Tools
 
-- [Figma](https://www.figma.com/) - Collaborative interface design tool. `Freemium`
 - [IconJar](https://geticonjar.com/) - Icon management tool for designers. `Paid`
 - [Sketch](https://www.sketch.com/) - Professional digital design for Mac. `Subscription`
 - [xScope](https://xscopeapp.com/) - Measure, inspect, and test on-screen graphics. `Paid`
@@ -194,7 +193,6 @@ Apps on this list are:
 - [Notational Velocity](http://notational.net/) - Modeless note-taking application. `Free` `Open Source`
 - [Notebooks](https://www.notebooksapp.com/) - Write, organize, and manage information. `Paid`
 - [nvALT](https://brettterpstra.com/projects/nvalt/) - Fork of Notational Velocity with additional features. `Free` `Open Source`
-- [Obsidian](https://obsidian.md/) - Powerful knowledge base on local Markdown files. `Freemium`
 - [The Archive](https://zettelkasten.de/the-archive/) - Note-taking app for writers and researchers. `Paid`
 - [Tot](https://tot.rocks/) - Elegant text collection on menu bar. `Freemium`
 - [Ulysses](https://ulysses.app/) - Professional writing environment for Mac. `Subscription`
