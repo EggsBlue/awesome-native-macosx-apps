@@ -306,8 +306,8 @@ Apps on this list are:
 - [Rectangle](https://rectangleapp.com/) - Window snapping via keyboard shortcuts. `Free` `Open Source`
 - [Rectangle Pro](https://rectangleapp.com/pro) - Professional window management. `Paid`
 - [Swish](https://highlyopinionated.co/swish/) - Control windows with trackpad gestures. `Paid`
-- [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
 - [Wins](https://wins.cool) - Bring system-level window management features to macOS. `Paid`
+- [Yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. `Free` `Open Source`
 
 ## Contributing
 
